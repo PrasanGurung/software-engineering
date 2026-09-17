@@ -23,3 +23,16 @@ The system will be developed as a software engineering project. The requirements
 | Term | Meaning | |---|---|| Player | A person who participates in the role-playing game. || GM | Game Master, the person who manages and controls the game. |
 | Game Session | A single playing session of the game. |
 | Character | A player-controlled person or creature in the game. || Requirement | A description of something the software should provide. || User Story | A short description of a software requirement from the user's point of view. |
+
+## Requirements
+
+The following are the initial requirements for the Role-Playing Game Management System. 
+These requirements may be changed later and new requirements may be added during development.
+
+### Player
+
+- As a Player, I want to view my character information, so that I can know my character's abilities during the game.
+
+### GM
+
+- As a GM, I want to manage game sessions, so that I can organize and control the game for the players.
